@@ -1,4 +1,4 @@
 ## Author: Jose Miguel Figarola Prado
 # Queens_Problem
-N-Queens Problem. N - Queens problem is to place n - queens in such a manner on an n x n chessboard 
-that no queens attack each other by being in the same row, column or diagonal.
+The N Queen is the problem of placing N chess queens on an N×N chessboard 
+so that no two queens attack each other. For example, following is a solution for 4 Queen problem.
